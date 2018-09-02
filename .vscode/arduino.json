@@ -1,0 +1,5 @@
+{
+    "sketch": "astrotracker.ino",
+    "port": "COM5",
+    "board": "arduino:avr:uno"
+}
